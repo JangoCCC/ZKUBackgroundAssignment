@@ -1,1 +1,1 @@
-A repository for ZKU Background Assignment.
+The repository for ZKU Background Assignment.
